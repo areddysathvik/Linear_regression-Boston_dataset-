@@ -1,2 +1,2 @@
-# Linear_regression-Boston_dataset-
-House price predictions
+# Linear_regression
+House price predictions using machine Learning(with Boston data)
